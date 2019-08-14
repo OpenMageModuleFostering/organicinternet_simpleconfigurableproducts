@@ -2,7 +2,7 @@
 <config>
     <modules>
         <OrganicInternet_SimpleConfigurableProducts>
-            <version>0.7.2</version>
+            <version>0.7.3</version>
         </OrganicInternet_SimpleConfigurableProducts>
     </modules>
     <global>
@@ -71,6 +71,9 @@
                 </rewrite>
                 <rewrite>
                     <product_view_media>OrganicInternet_SimpleConfigurableProducts_Catalog_Block_Product_View_Media</product_view_media>
+                </rewrite>
+                <rewrite>
+                    <product_view_attributes>OrganicInternet_SimpleConfigurableProducts_Catalog_Block_Product_View_Attributes</product_view_attributes>
                 </rewrite>
             </catalog>
             <checkout>
