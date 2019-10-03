@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/OrganicInternet_SimpleConfigurableProducts",
+    "name": "OpenMageModuleFostering\/OrganicInternet_SimpleConfigurableProducts",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "This extension changes the way that the pricing of configurable products works in Magento. With this extension the price for configurable products is taken directly from the  associated simple products rather than the configurable product itself.",
     "authors": [
-    {
-        "name": "OrganicInternet - Matt Dean",
-        "email": "matt@organicinternet.co.uk"
-    }
-],
+        {
+            "name": "OrganicInternet - Matt Dean",
+            "email": "matt@organicinternet.co.uk"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
