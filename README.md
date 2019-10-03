@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension changes the way that the pricing of configurable products works in Magento. With this extension the price for configurable products is taken directly from the  associated simple products rather than the configurable product itself.
